@@ -99,7 +99,7 @@ p {
 }
 
 img {
-  width: 400px;
+  width: 100%;
 }
 
 @media (max-width: 576px) {
